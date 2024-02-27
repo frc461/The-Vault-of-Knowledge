@@ -1,0 +1,13 @@
+Things to do on your computer/the programming laptop:
+
+- Install FRC build tools (Make sure you get the most recent version!)
+- Git clone the robot code repo ("git clone <link goes here>")
+- Make sure you either install the required libraries (linked below) or pull them when you clone the repo.
+- Install debugging/configuration software. you'll need it. (rev hardware client and phoenix tuner)
+
+Helpful links:
+
+Phoenix v5 and v6: https://pro.docs.ctr-electronics.com/en/stable/docs/installation/installation-frc.html
+RevLib 2024: https://software-metadata.revrobotics.com/REVLib-2024.json
+Pathplanner 2024: https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
+WPIlib New Commands 1.0: Pre-installed with WPIlib
