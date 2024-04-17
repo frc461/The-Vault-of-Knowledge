@@ -1,6 +1,14 @@
 When at an event:
-  Make as few code changes a possible! New code almost never works first try...
+
+In the pits:
+  Keep a programmer on pit crew to fix the robot code and talk to judges.
+  Make as few code changes a possible! New code almost never works first try... (a good rule here is to only *tune* code instead of writing new code, that way you have a much smaller chance to break something)
   Only use one laptop! FRC events never have public wifi so you can't count on using git.
   Write a preflight checklist and *actually go through it* before each match. test every subsystem throughly. catching a problem early often decides the result of a match.
+  You can help you alliance partners! Ask if any partners need code help before playoffs begins (this is especially true in week 1 events, where teams have had less time to write code)
+
+In a match:
+  MAKE SURE YOU SELECT AN AUTO.
   Record auto in all matches. If you have to tweak something it's better to see what actually happened instead of relying on memory.
+  
   
